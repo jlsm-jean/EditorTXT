@@ -21,7 +21,7 @@ namespace TXT_EDITOR
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            //Janela Forms
+            //Janela Forms - abort
         }
 
         #region Menu Arquivo
